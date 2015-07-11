@@ -6,9 +6,6 @@ set termencoding=utf-8
 " disable vi compatibility (emulation of old bugs)
 set nocompatible
 
-"set binary mode to see carriage returns, etc.
-set binary
-
 " indentation settings
 set autoindent
 set smartindent
